@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kalsangzero
-- 👀 I’m interested in making an App that could bring people closer through Tasks.
-- 🌱 I’m currently Bench-Learning.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... 
+-     Frontend Developer comfortable with JavaScript, React, Next.js 
+-     in combination with Node.js, API-Routing, PostgreSQL, Figma, Github. Other Challenges are welcome.
+- 🌱 I’m currently doing a project called Notic
+- 💞️ I’m looking to collaborate on Notic
+- 📫 How to reach me ... kaltse000@gmail.com
 
 <!---
 kalsangzero/kalsangzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
